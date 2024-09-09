@@ -1,4 +1,4 @@
-![logo width="600"](https://github.com/Chaitra-Deshpande/Chaitra-Deshpande/blob/main/github-header-image%20(2).png)
+<img src="https://github.com/Chaitra-Deshpande/Chaitra-Deshpande/blob/main/github-header-image%20(2).png" align="center">
 <h1 align="center">Hi 👋, I'm Chaitra Deshpande</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLl3kRF5kgLnxju_1ZD17bcyO2FY8KcAYhSA&s">
