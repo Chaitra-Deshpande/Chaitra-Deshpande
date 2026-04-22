@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Chaitra-Deshpande/Chaitra-Deshpande/blob/main/header-img.png)
+![MasterHead](https://github.com/Chaitra-Deshpande/Chaitra-Deshpande/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Chaitra</h1>
 <h3 align="center">Eager to apply my skills in coding, problem-solving, and system design to real-world projects</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLl3kRF5kgLnxju_1ZD17bcyO2FY8KcAYhSA&s">
